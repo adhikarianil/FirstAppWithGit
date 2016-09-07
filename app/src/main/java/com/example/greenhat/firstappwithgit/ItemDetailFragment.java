@@ -52,6 +52,7 @@ public class ItemDetailFragment extends Fragment {
             if (appBarLayout != null) {
                 appBarLayout.setTitle(mItem.content);
                 appBarLayout.setTitle(mItem.content);
+                appBarLayout.setTitle(mItem.content);
 
 
             }
